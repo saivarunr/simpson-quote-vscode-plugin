@@ -10,7 +10,7 @@
 		"Other"
 	],
 	"activationEvents": [
-		"onCommand:simpsons-quotes.helloWorld"
+		"*"
 	],
 	"main": "./extension.js",
 	"contributes": {
