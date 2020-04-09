@@ -5,6 +5,7 @@
 	"publisher": "saivarunvishal",
 	"version": "0.0.1",
 	"repository": "https://github.com/saivarunr/simpson-quote-vscode-plugin",
+	"icon": "images/icon.png",
 	"engines": {
 		"vscode": "^1.44.0"
 	},
