@@ -1,7 +1,8 @@
 {
 	"name": "simpsons-quotes",
 	"displayName": "Simpsons Quotes",
-	"description": "",
+	"description": "Simpson quotes while you take a break from code.",
+	"publisher": "saivarunvishal",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.44.0"
