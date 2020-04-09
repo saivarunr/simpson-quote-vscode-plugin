@@ -4,6 +4,7 @@
 	"description": "Simpson quotes while you take a break from code.",
 	"publisher": "saivarunvishal",
 	"version": "0.0.1",
+	"repository": "https://github.com/saivarunr/simpson-quote-vscode-plugin",
 	"engines": {
 		"vscode": "^1.44.0"
 	},
