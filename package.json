@@ -3,11 +3,11 @@
 	"displayName": "Simpsons Quotes",
 	"description": "Simpson quotes while you take a break from code.",
 	"publisher": "saivarunvishal",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"repository": "https://github.com/saivarunr/simpson-quote-vscode-plugin",
 	"icon": "images/icon.png",
 	"engines": {
-		"vscode": "^1.44.0"
+		"vscode": "^1.0.0"
 	},
 	"categories": [
 		"Other"
@@ -30,7 +30,7 @@
 		"test": "node ./test/runTest.js"
 	},
 	"devDependencies": {
-		"@types/vscode": "^1.44.0",
+		"@types/vscode": "^1.0.0",
 		"@types/glob": "^7.1.1",
 		"@types/mocha": "^7.0.2",
 		"@types/node": "^13.11.0",
