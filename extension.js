@@ -18,7 +18,7 @@ function paintQuote(status) {
 			response.on('data', function (chunk) {
 				const t = JSON.parse('' + chunk);
 				const { quote, character } = t[0];
-				status.text = `${quote} - ${character}`;
+				status.text = status.tooltip = `${quote} - ${character}`;
 				status.show();
 			});
 		});
