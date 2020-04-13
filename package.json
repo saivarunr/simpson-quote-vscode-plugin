@@ -3,7 +3,7 @@
 	"displayName": "Simpsons Quotes",
 	"description": "Simpson quotes while you take a break from code.",
 	"publisher": "saivarunvishal",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"repository": "https://github.com/saivarunr/simpson-quote-vscode-plugin",
 	"icon": "images/icon.png",
 	"engines": {

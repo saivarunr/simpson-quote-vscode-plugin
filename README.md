@@ -11,3 +11,7 @@ Initial release of simpsons-quotes
 ### 0.0.2
 
 Support for older version
+
+### 0.0.3
+
+Tooltips for longer quotes
